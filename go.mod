@@ -1,3 +1,3 @@
-module github.com/llh/newstring
+module newstring
 
 go 1.18
